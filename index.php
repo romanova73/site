@@ -23,70 +23,21 @@
   <div id="wrapper">
     <!--header -->
     <div id="header"> <a href="index.html"><img src="images/logo.png" alt="" id="logo" /></a>
-      <div id="right_header">
-        <div id="top_nav">
-          <ul>
-            <li><a href="#" class="active"><span>Campus maps</span></a></li>
-            <li><a href="contactus.html"><span>Contact us</span></a></li>
-            <li><a href="#"><span>Jobs</span></a></li>
-            <li><a href="#"><span>Help</span></a></li>
-            <li><a href="#"><span>A-Z index</span></a></li>
-          </ul>
-        </div>
-        <div id="search_header">
-          <ul>
-            <li>
-              <input type="text" value="Search you any keyword" onfocus="if(this.value == 'Search you any keyword') { this.value = ''; }" onblur="if(this.value == '') { this.value = 'Search you any keyword'; }" />
-            </li>
-            <li><a href="#">Search</a></li>
-          </ul>
-        </div>
-      </div>
     </div>
     <!--Menu Area -->
     <div id="nav">
       <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="#">Current students</a></li>
-        <li><a href="#">International</a>
+        <li><a href="index.html">Главная</a></li>
+        <li><a href="#">Абитуриентам</a></li>
+        <li><a href="#">Студентам</a>
           <ul>
-            <li><a href="#">Offices</a>
-              <ul>
-                <li><a href="#">International</a></li>
-                <li><a href="#">Uk Offices</a></li>
-                <li><a href="#">London Campus</a></li>
-                <li><a href="#">Online Support</a></li>
-              </ul>
+            <li><a href="#">Преподаватели</a>
             </li>
-            <li><a href="#">Student</a></li>
-            <li><a href="#">Affiliation</a></li>
-            <li><a href="#">Community</a></li>
-            <li><a href="#">Success Statement</a></li>
+            <li><a href="#">Дисциплины</a></li>
+            <li><a href="#">Расписание</a></li>
           </ul>
         </li>
-        <li><a href="#">Study Departments </a></li>
-        <li><a href="#">Research</a></li>
-        <li><a href="#">Alumni</a></li>
-        <li><a href="#"> About us</a></li>
-        <li><a href="#">Pages</a>
-          <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="blog.html">Blog</a></li>
-            <li><a href="blogdetail.html">Blog Detail</a></li>
-            <li><a href="news.html">News</a></li>
-            <li><a href="contactus.html">Contact us</a></li>
-            <li><a href="courses.html">Courses</a></li>
-            <li><a href="gallery.html">Gallery</a></li>
-          </ul>
-        </li>
-        <li><a href="#">Themes</a>
-          <ul>
-            <li><a href="../blue/index.html">Blue</a></li>
-            <li><a href="../green/index.html">Green</a></li>
-            <li><a href="../red/index.html">Red</a></li>
-            <li><a href="../yellow/index.html">Yellow</a></li>
-          </ul>
-        </li>
+        <li><a href="#">История кафедры</a></li>
       </ul>
     </div>
     <!--content area -->
